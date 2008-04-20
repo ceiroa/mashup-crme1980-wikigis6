@@ -1,4 +1,4 @@
-<gm:page title="Wiki GIS 5" authenticate="true" onload="onLoad()">
+<gm:page title="Wiki GIS 6" authenticate="true" onload="onLoad()">
 
 <script type="text/javascript" src="resources/wikigis5.js"></script>
 
